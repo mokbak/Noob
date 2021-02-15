@@ -35,11 +35,11 @@ unzip Zeus.zip
 
 echo -e "\n\n"
 echo -e "###### install requirements ######" "\n"
-pip install -r /phpvuln/requirements.txt
-pip install -r /fawkes/requirements.txt
-pip install -r /sqlmap/requirements.txt
-pip install -r /osmedeus/requirements.txt
-pip install -r /zeus/requirements.txt
+pip install -r phpvuln/requirements.txt
+pip install -r fawkes/requirements.txt
+pip install -r sqlmap/requirements.txt
+pip install -r osmedeus/requirements.txt
+pip install -r zeus/requirements.txt
 
 
 echo -e "\n\n"
