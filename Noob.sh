@@ -45,6 +45,7 @@ pip install -r zeus/requirements.txt
 echo -e "\n\n"
 echo -e "###### Delete Install *.sh *.zip ######" "\n"
 rm -R sample_data
+rm Noob.sh
 rm PhpVuln.zip
 rm FAWKES.zip
 rm SQLMAP.zip
