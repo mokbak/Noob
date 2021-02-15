@@ -6,7 +6,7 @@ echo -e "#######################################" "\n\n"
 
 echo -e "###### Download fawkes ######" "\n"
 
-curl -O https://raw.githubusercontent.com/mokbak/main/fawkes.zip
+curl -O https://raw.githubusercontent.com/mokbak/Noob/main/fawkes.zip
 
 echo -e "###### unzip fawkes ######" "\n"
 
