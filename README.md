@@ -1,6 +1,5 @@
 # Noob
-# Fawkes #
 
-!curl -O https://raw.githubusercontent.com/mokbak/Noob/main/Fawkes.sh
+!curl -O https://raw.githubusercontent.com/mokbak/Noob/main/Noob.sh
 
-!bash Fawkes.sh
+!bash Noob.sh
