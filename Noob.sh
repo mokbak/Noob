@@ -49,8 +49,8 @@ rm PhpVuln.zip
 rm FAWKES.zip
 rm SQLMAP.zip
 rm ATLAS.zip
-#unzip Osmedeus.zip
-#unzip Zeus.zip
+rm Osmedeus.zip
+rm Zeus.zip
 
 echo -e "\n"
 echo "################## END ##################"
