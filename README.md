@@ -6,7 +6,7 @@
 !bash Noob.sh
 
 
-##https://repl.it##
+##https://repl.it/##
 
 curl -O https://raw.githubusercontent.com/mokbak/Noob/main/Noob.sh
 
